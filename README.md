@@ -39,9 +39,9 @@ Install dependencies using:
     - Generate an API key and replace the placeholder in both main.py and utils.py with your key.
  2. Clone the repository:
 
-```git clone https://github.com/your-repo/easypeasy-ielts.git```
+```git clone https://github.com/goose847/IELTS_Speaking_Test_Tutor```
 
-```cd easypeasy-ielts```
+```cd IELTS_Speaking_Test_Tutor```
 
  3. Run the program:
 ```python main.py```
