@@ -44,7 +44,7 @@ Install dependencies using:
 ```cd easypeasy-ielts```
 
  3. Run the program:
-```python Main.py```
+```python main.py```
 
 ## File Structure
 
